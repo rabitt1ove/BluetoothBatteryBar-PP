@@ -1,30 +1,52 @@
-# Privacy Policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy | BluetoothBatteryBar</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      line-height: 1.6;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #333;
+    }
+    h1, h2 {
+      color: #222;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
 
-This privacy policy applies to the macOS application **BluetoothBatteryBar** (hereinafter referred to as "the Application") provided by **Yu** ("the Developer") as a free and standalone utility.
+  <h1>Privacy Policy</h1>
 
-## Information Collection and Use
+  <p>This privacy policy applies to the macOS application <strong>BluetoothBatteryBar</strong> (hereinafter referred to as "the Application") provided by <strong>Yu</strong> ("the Developer") as a free and standalone utility.</p>
 
-The Application **does not collect, store, or transmit any personal data**.
+  <h2>Information Collection and Use</h2>
+  <p>The Application <strong>does not collect, store, or transmit any personal data</strong>.</p>
+  <p>It does not connect to any external servers, does not track user behavior, and does not request access to system-level permissions beyond standard Bluetooth access provided by macOS APIs.</p>
 
-It does not connect to any external servers, does not track user behavior, and does not request access to system-level permissions beyond standard Bluetooth access provided by macOS APIs.
+  <h2>Third-Party Services</h2>
+  <p>The Application does not use any third-party analytics, advertising, or tracking services.</p>
 
-## Third-Party Services
+  <h2>Children's Privacy</h2>
+  <p>The Application does not collect any data and is safe for use by individuals of any age. No information is knowingly collected from children under the age of 13.</p>
 
-The Application does not use any third-party analytics, advertising, or tracking services.
+  <h2>Security</h2>
+  <p>As the Application does not store or transmit any user data, no special security measures are required. The Application runs locally on your Mac and does not access the internet.</p>
 
-## Children's Privacy
+  <h2>Changes to This Policy</h2>
+  <p>This policy may be updated in the future. Changes will be posted on the official support page or repository.</p>
 
-The Application does not collect any data and is safe for use by individuals of any age. No information is knowingly collected from children under the age of 13.
+  <h2>Contact</h2>
+  <p>If you have any questions about this privacy policy, please contact:</p>
+  <p><strong>side.job.d.you0402@gmail.com</strong></p>
 
-## Security
-
-As the Application does not store or transmit any user data, no special security measures are required. The Application runs locally on your Mac and does not access the internet.
-
-## Changes to This Policy
-
-This policy may be updated in the future. Changes will be posted on the official support page or repository.
-
-## Contact
-
-If you have any questions about this privacy policy, please contact:
-**side.job.d.you0402@gmail.com**
+</body>
+</html>
